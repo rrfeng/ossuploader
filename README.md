@@ -21,6 +21,15 @@ Usage of ./ossuploader:
         Number of routines for parallel upload. (default 1)
 ```
 
+## Config File Format: JSON
+
+```
+{
+  "accesskey": "MY_ACCESS_KEY",
+  "secretkey": "MY_ACCESS_KEY_SECRET"
+}
+```
+
 ## Example
 
 ### UPLOAD:
